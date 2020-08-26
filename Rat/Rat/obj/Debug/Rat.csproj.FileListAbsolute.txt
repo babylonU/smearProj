@@ -1,0 +1,6 @@
+c:\users\s3cure\documents\visual studio 2017\Projects\Rat\Rat\obj\Debug\Rat.csprojResolveAssemblyReference.cache
+C:\Users\s3cure\Documents\Visual Studio 2017\Projects\Rat\Rat\bin\Debug\FreeCode.exe.config
+C:\Users\s3cure\Documents\Visual Studio 2017\Projects\Rat\Rat\bin\Debug\FreeCode.exe
+C:\Users\s3cure\Documents\Visual Studio 2017\Projects\Rat\Rat\bin\Debug\FreeCode.pdb
+C:\Users\s3cure\Documents\Visual Studio 2017\Projects\Rat\Rat\obj\Debug\FreeCode.exe
+C:\Users\s3cure\Documents\Visual Studio 2017\Projects\Rat\Rat\obj\Debug\FreeCode.pdb
